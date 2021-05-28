@@ -1,0 +1,6 @@
+X:\Programmierung\c_sharp\FileWatcher\FileWatcher\bin\Debug\FileWatcher.exe.config
+X:\Programmierung\c_sharp\FileWatcher\FileWatcher\bin\Debug\FileWatcher.exe
+X:\Programmierung\c_sharp\FileWatcher\FileWatcher\bin\Debug\FileWatcher.pdb
+X:\Programmierung\c_sharp\FileWatcher\FileWatcher\obj\Debug\FileWatcher.csprojAssemblyReference.cache
+X:\Programmierung\c_sharp\FileWatcher\FileWatcher\obj\Debug\FileWatcher.exe
+X:\Programmierung\c_sharp\FileWatcher\FileWatcher\obj\Debug\FileWatcher.pdb
